@@ -1,6 +1,16 @@
 # library_manager
 
-A new Flutter project.
+Library manager built with Flutter and Django Rest Framework.
+<table width="100%">
+  <tr>
+  <td width="33.3%"><img src="https://user-images.githubusercontent.com/24388337/138900429-2ad007e2-c01b-4e8f-b4d3-ee3f93eb5eef.png" width="250" height="400"></td>
+  <td width="33.3%"><img src="https://user-images.githubusercontent.com/24388337/138902432-824d4e9b-9ab0-428a-9a91-62baa88183a8.png" width="250" height="400"></td>
+  <td width="33.3%"><img src="https://user-images.githubusercontent.com/24388337/138902466-20c11d87-1e15-4d55-83c8-471ed8dfa358.png" width="250" height="400"></td>
+  </tr>
+</table>
+
+
+
 
 ## Getting Started
 
